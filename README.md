@@ -31,9 +31,9 @@ example :
       export default Dashboard
       
       
-  ## Function and Variable (lowerCamelCase)
+  > Function and Variable `lowerCamelCase`
       
-      example :
+   example :
       
         const userName=''
         const userEmail=''
@@ -43,7 +43,7 @@ example :
         }
         
    
-   ## Constants / Enums (UPPERCASE)
+   > Constants / Enums `UPPERCASE`
    
       exapmle :
       
@@ -58,7 +58,7 @@ example :
         
    
    
-   ## Folder Structure
+   > Folder Structure
     
       -assets
       -layouts
@@ -69,7 +69,7 @@ example :
       -services
       -utils
  
-   ## Folder Structure Nested
+   > Folder Structure Nested
     
       -assets
           -images
