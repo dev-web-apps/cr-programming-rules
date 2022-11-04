@@ -45,7 +45,7 @@ example :
    
    > Constants / Enums `UPPERCASE`
    
-      exapmle :
+   exapmle :
       
         const PI=3.142
         
@@ -94,7 +94,7 @@ example :
            -config.ts
       -services
             -dashboard
-                dashboard.services.ts
+               -dashboard.services.ts
       -utils
             -helpers
             -formatDate
