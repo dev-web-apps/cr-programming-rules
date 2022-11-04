@@ -1,16 +1,26 @@
-# cr-programming-rules
+# Concept Recall Programming Rules
 
-## Folder and File name Case (lowerCamelCase->PascalCase)
+## Rules for letter case
 
-  example : 
+> Folder Name `lowerCamelCase`
+
+example : 
   
-    folderName -> FileName.tsx
-    dashboard -> Dashboard.tsx
+    folderName
+    dashboard
+    
+> File Name `PascalCase`
+
+example : 
+  
+    FileName.tsx
+    Index.tsx
+    Dashboard.tsx
     
     
- ## Component (PascalCase)
+ > Component `PascalCase`
  
-    example :
+ example :
       
       const Dashboard= () => {
         return (
